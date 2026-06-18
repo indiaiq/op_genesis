@@ -43,7 +43,7 @@ const localBusinessSchema = {
     streetAddress: "YOUR STREET ADDRESS",
     addressLocality: "Orlando",
     addressRegion: "FL",
-    postalCode: "XXXXX",
+    postalCode: "32856",
     addressCountry: "US"
   },
   areaServed: [

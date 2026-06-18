@@ -668,7 +668,7 @@ function Footer() {
             <a className="footer-link" href="mailto:contact@opgenesis.com">
               contact@opgenesis.com
             </a>
-            <p className="m-0 text-[13px] leading-8 text-white/65">Orlando, FL 3XXXX</p>
+            <p className="m-0 text-[13px] leading-8 text-white/65">Orlando, FL 32856</p>
           </div>
         </div>
         <div className="mt-12 flex items-center justify-between gap-6 border-t border-white/10 pt-6 max-md:flex-col max-md:items-start">
